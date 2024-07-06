@@ -7,4 +7,5 @@ The consistent hashing algorithm ensures a balanced distribution of keys across 
 * Simulate Scaling Up and Down of instance
 * Load balancing API request to instance from the Ring
 
-![simulate.png](simulate.png)
+
+![Distributed Consistent Hashing.png](Distributed%20Consistent%20Hashing.png)
